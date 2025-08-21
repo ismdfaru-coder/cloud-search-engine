@@ -1,1 +1,31 @@
-
+[
+  {
+    "url": "https://example.com/",
+    "title": "Example Domain",
+    "keywords": [
+      "example",
+      "domain"
+    ],
+    "content": "Example Domain. This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission."
+  },
+  {
+    "url": "https://www.iana.org/domains/reserved",
+    "title": "IANA \u2014 IANA-managed Reserved Domains",
+    "keywords": [
+      "IANA",
+      "reserved",
+      "domains"
+    ],
+    "content": "IANA manages a list of domains that are reserved for use in documentation and examples. These include example.com, example.net, and example.org."
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+    "title": "MDN Web Docs \u2014 HTTP",
+    "keywords": [
+      "MDN",
+      "HTTP",
+      "web"
+    ],
+    "content": "Hypertext Transfer Protocol (HTTP) is an application-layer protocol for transmitting hypermedia documents, such as HTML. It was designed for communication between web browsers and web servers."
+  }
+]
